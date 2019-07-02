@@ -1,12 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a8f791c-6ce9-428e-a0f7-923d98a34cfb" name="Default" comment="" />
+    <list default="true" id="1a8f791c-6ce9-428e-a0f7-923d98a34cfb" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/webpack读书笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/webpack读书笔记.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/一些杂记.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/一些杂记.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hexo-theme-laughing" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hexo-theme-laughing" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hexo-theme-laughing/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hexo-theme-laughing/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hexo-theme-laughing/layout/post.pug" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hexo-theme-laughing/layout/post.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/Gruntfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/languages/de.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/languages/default.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/languages/es.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/languages/fr.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/languages/ja.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/languages/ko.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/languages/nl.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/languages/no.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/languages/pt.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/languages/ru.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/languages/zh-CN.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/languages/zh-TW.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/after-footer.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/archive-post.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/archive.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/article.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/footer.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/gauges-analytics.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/google-analytics.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/head.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/header.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/mobile-nav.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/post/category.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/post/date.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/post/gallery.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/post/nav.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/post/tag.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/post/title.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/sidebar.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_widget/archive.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_widget/category.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_widget/recent_posts.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_widget/tag.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_widget/tagcloud.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/archive.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/category.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/index.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/layout.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/page.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/post.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/tag.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/scripts/fancybox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_extend.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/archive.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/article.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/comment.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/footer.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/header.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/highlight.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/mobile.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/sidebar-aside.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/sidebar-bottom.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/sidebar.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_util/grid.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_util/mixin.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_variables.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/images/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/style.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/blank.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/fancybox_loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/fancybox_loading@2x.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/fancybox_overlay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/fancybox_sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/fancybox_sprite@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/fancybox_buttons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-buttons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-buttons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-media.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-thumbs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-thumbs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/jquery.fancybox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/jquery.fancybox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/jquery.fancybox.pack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/js/script.js" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,32 +109,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="一些杂记.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/一些杂记.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="95" column="7" lean-forward="false" selection-start-line="95" selection-start-column="7" selection-end-line="95" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hello-world.md" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/_posts/hello-world.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-              <folding />
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="190">
+                <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="webpack读书笔记.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/source/_posts/webpack读书笔记.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="81" column="42" lean-forward="false" selection-start-line="81" selection-start-column="42" selection-end-line="81" selection-end-column="42" />
-              <folding />
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/扒一扒双向数据绑定.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="507">
+                <caret line="330" selection-start-line="330" selection-end-line="330" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -48,9 +137,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>deploy</find>
-      <find>http://hexo.io/docs/troubleshooting.html</find>
-      <find>hexo.io</find>
       <find>/dev/tty</find>
       <find>tty</find>
       <find>Username</find>
@@ -59,7 +145,6 @@
       <find>them</find>
       <find>LAUGHING</find>
       <find>use_font_lato</find>
-      <find>font</find>
       <find>host</find>
       <find>embed.js</find>
       <find>font-size</find>
@@ -77,20 +162,22 @@
       <find>currentState</find>
       <find>subscribe</find>
       <find>web</find>
+      <find>http://callfiles.ueibo.com/hexo-theme-laughing/page_background.jpg</find>
+      <find>head</find>
+      <find>embed</find>
+      <find>BensonChen</find>
+      <find>font</find>
     </findStrings>
     <replaceStrings>
       <replace>栗子</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.deploy_git" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/themes/hexo-theme-laughing/_config.yml" />
-        <option value="$PROJECT_DIR$/themes/hexo-theme-laughing/layout/post.pug" />
         <option value="$PROJECT_DIR$/.deploy_git/2018/04/26/hello-world/index.html" />
         <option value="$PROJECT_DIR$/.deploy_git/2018/04/26/js计算题/index.html" />
         <option value="$PROJECT_DIR$/themes/hexo-theme-laughing/source/sass/_partial/post.scss" />
@@ -104,45 +191,36 @@
         <option value="$PROJECT_DIR$/source/_posts/JS读书杂记.md" />
         <option value="$PROJECT_DIR$/source/_posts/redux解析.md" />
         <option value="$PROJECT_DIR$/source/_posts/JS中的This.md" />
-        <option value="$PROJECT_DIR$/source/_posts/一些杂记.md" />
+        <option value="$PROJECT_DIR$/themes/hexo-theme-laughing/layout/post.pug" />
+        <option value="$PROJECT_DIR$/themes/hexo-theme-laughing/_config.yml" />
+        <option value="$USER_HOME$/Downloads/2-9多种配置类型/webpack.config.js" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/source/CNAME" />
         <option value="$PROJECT_DIR$/source/_posts/webpack读书笔记.md" />
+        <option value="$PROJECT_DIR$/source/_posts/关于同构.md" />
+        <option value="$PROJECT_DIR$/source/_posts/一些杂记.md" />
+        <option value="$PROJECT_DIR$/source/_posts/2018年终总结.md" />
+        <option value="$PROJECT_DIR$/source/_posts/Taro笔记-解析.md" />
+        <option value="$PROJECT_DIR$/source/_posts/JavaScript数据结构与算法.md" />
+        <option value="$PROJECT_DIR$/source/_posts/扒一扒双向数据绑定.md" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/node_modules" />
-  </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="752" />
-    <option name="y" value="328" />
-    <option name="width" value="1456" />
-    <option name="height" value="916" />
+    <option name="x" value="-1420" />
+    <option name="y" value="118" />
+    <option name="width" value="1280" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -150,24 +228,34 @@
         <subPane>
           <expand>
             <path>
-              <item name="BensonBlog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BensonBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MIDC" />
-    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -188,9 +276,6 @@
         </RuleState>
       </list>
     </option>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -222,34 +307,67 @@
       <workItem from="1541122027767" duration="1259000" />
       <workItem from="1541381845057" duration="837000" />
       <workItem from="1541987162425" duration="23858000" />
+      <workItem from="1543419392525" duration="11668000" />
+      <workItem from="1543558809204" duration="16249000" />
+      <workItem from="1543834354150" duration="10871000" />
+      <workItem from="1543920468285" duration="3031000" />
+      <workItem from="1544080380925" duration="1207000" />
+      <workItem from="1544238505050" duration="7014000" />
+      <workItem from="1544420869537" duration="3463000" />
+      <workItem from="1544622191352" duration="1312000" />
+      <workItem from="1544708466219" duration="666000" />
+      <workItem from="1546436584212" duration="6409000" />
+      <workItem from="1546483277557" duration="19000" />
+      <workItem from="1556361168595" duration="2075000" />
+      <workItem from="1557996424035" duration="823000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="195377000" />
+    <option name="totallyTimeSpent" value="260184000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="752" y="328" width="1456" height="916" extended-state="1" />
+    <frame x="-1420" y="118" width="1280" height="1050" extended-state="1" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20733428" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299285" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="SmartIM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19387755" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299285" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15780999" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299285" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32950193" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3290461" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.34606987" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="SmartIM" order="11" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23407644" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299285" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32950193" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32950193" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.25623053" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="SmartIM" order="11" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -257,311 +375,36 @@
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/_posts/hello-world.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="34" column="13" lean-forward="false" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/一些杂记.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/a.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2180">
-          <caret line="109" column="0" lean-forward="false" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/一些杂记.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/a.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2180">
-          <caret line="109" column="0" lean-forward="false" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/一些杂记.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3120">
-          <caret line="156" column="3" lean-forward="false" selection-start-line="156" selection-start-column="3" selection-end-line="156" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/hello-world.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="34" column="2" lean-forward="false" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/一些杂记.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/JS-原型-继承-委托.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2840">
-          <caret line="142" column="9" lean-forward="false" selection-start-line="142" selection-start-column="9" selection-end-line="142" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/a.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="940">
-          <caret line="47" column="24" lean-forward="true" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/一些杂记.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1600">
-          <caret line="80" column="4" lean-forward="true" selection-start-line="80" selection-start-column="4" selection-end-line="80" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/JS-原型-继承-委托.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2320">
-          <caret line="116" column="23" lean-forward="true" selection-start-line="116" selection-start-column="23" selection-end-line="116" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/JS中的This.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/JS-原型-继承-委托.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/js计算题.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/hello-world.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/js计算题.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/hello-world.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-laughing/layout/_partial/post_header.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-laughing/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3660">
-          <caret line="171" column="48" lean-forward="true" selection-start-line="171" selection-start-column="48" selection-end-line="171" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/landscape/source/css/images/banner.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html" />
+    <entry file="file://$PROJECT_DIR$/themes/landscape/source/css/images/banner.jpg" />
     <entry file="file://$PROJECT_DIR$/themes/default_images/head.jpg" />
-    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-laughing/layout/_partial/footer.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="54" lean-forward="false" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-laughing/layout/index.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-laughing/layout/_partial/post_header.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-laughing/layout/post.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="28" column="129" lean-forward="false" selection-start-line="28" selection-start-column="86" selection-end-line="28" selection-end-column="129" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="43" column="20" lean-forward="false" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-laughing/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="30" column="15" lean-forward="false" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.deploy_git/2018/04/26/js计算题/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="154" column="121" lean-forward="false" selection-start-line="154" selection-start-column="121" selection-end-line="154" selection-end-column="121" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.deploy_git/2018/04/26/hello-world/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="14" column="121" lean-forward="false" selection-start-line="14" selection-start-column="121" selection-end-line="14" selection-end-column="121" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/landscape/layout/_partial/after-footer.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="79" lean-forward="false" selection-start-line="10" selection-start-column="79" selection-end-line="10" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-laughing/source/css/main_style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4057">
-          <caret line="136" column="11" lean-forward="false" selection-start-line="136" selection-start-column="2" selection-end-line="136" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-laughing/source/sass/_partial/post.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../webpack/bundle.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="0" column="623" lean-forward="true" selection-start-line="0" selection-start-column="623" selection-end-line="0" selection-end-column="623" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/tags/js计算-js面试题/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-laughing/layout/_partial/footer.pug" />
+    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-laughing/layout/index.pug" />
+    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-laughing/layout/_partial/post_header.pug" />
+    <entry file="file://$PROJECT_DIR$/.deploy_git/2018/04/26/js计算题/index.html" />
+    <entry file="file://$PROJECT_DIR$/.deploy_git/2018/04/26/hello-world/index.html" />
+    <entry file="file://$PROJECT_DIR$/themes/landscape/layout/_partial/after-footer.ejs" />
+    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-laughing/source/css/main_style.css" />
+    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-laughing/source/sass/_partial/post.scss" />
+    <entry file="file://$PROJECT_DIR$/../webpack/bundle.js" />
+    <entry file="file://$PROJECT_DIR$/public/tags/js计算-js面试题/index.html" />
     <entry file="file://$PROJECT_DIR$/source/_posts/柯里化.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Desktop/index.js" />
-    <entry file="file://$USER_HOME$/Desktop/a.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="162" column="17" lean-forward="false" selection-start-line="162" selection-start-column="17" selection-end-line="162" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/js计算题.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="154" column="24" lean-forward="false" selection-start-line="154" selection-start-column="24" selection-end-line="154" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/a.html" />
     <entry file="file://$USER_HOME$/Desktop/xg_wjm.html" />
-    <entry file="file://$USER_HOME$/Desktop/xgwjm/e9479c8755feb3a7d61c05146624b976.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/xgwjm/xg_wjm.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="90" column="33" lean-forward="false" selection-start-line="90" selection-start-column="33" selection-end-line="90" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/xgwjm/e9479c8755feb3a7d61c05146624b976.jpg" />
+    <entry file="file://$USER_HOME$/Desktop/xgwjm/xg_wjm.html" />
     <entry file="file://$PROJECT_DIR$/source/_posts/JS-原型-继承-委托.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3380">
-          <caret line="169" column="9" lean-forward="false" selection-start-line="169" selection-start-column="9" selection-end-line="169" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/JS读书杂记.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" column="3" lean-forward="false" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+          <caret line="169" column="9" selection-start-line="169" selection-start-column="9" selection-end-line="169" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -569,47 +412,182 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="503">
           <caret line="56" column="23" lean-forward="true" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/hello-world.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
+        <state relative-caret-position="136">
           <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-laughing/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-laughing/layout/post.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/2-9多种配置类型/main.js" />
+    <entry file="file://$USER_HOME$/Downloads/2-9多种配置类型/package.json" />
+    <entry file="file://$USER_HOME$/Downloads/2-9多种配置类型/webpack.config.js" />
+    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-laughing/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/redux解析.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/js计算题.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="265" column="0" lean-forward="false" selection-start-line="265" selection-start-column="0" selection-end-line="265" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="2618">
+          <caret line="154" column="24" selection-start-line="154" selection-start-column="24" selection-end-line="154" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/关于同构.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="18" lean-forward="true" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/一些杂记.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="95" column="7" lean-forward="false" selection-start-line="95" selection-start-column="7" selection-end-line="95" selection-end-column="7" />
-          <folding />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="4641">
+          <caret line="273" selection-start-line="273" selection-end-line="273" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/2018年终总结.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="133">
+            <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/webpack读书笔记.md">
-      <provider selected="true" editor-type-id="text-editor">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="7939">
+          <caret line="467" column="52" selection-start-line="467" selection-start-column="52" selection-end-line="467" selection-end-column="52" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="152">
+            <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/redux解析.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="265" selection-start-line="265" selection-end-line="265" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="323">
+            <caret line="17" column="89" lean-forward="true" selection-start-line="17" selection-end-line="17" selection-end-column="89" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/JS读书杂记.md">
+      <provider editor-type-id="text-editor">
         <state relative-caret-position="420">
-          <caret line="81" column="42" lean-forward="false" selection-start-line="81" selection-start-column="42" selection-end-line="81" selection-end-column="42" />
-          <folding />
+          <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/数据结构与算法.md" />
+    <entry file="file://$PROJECT_DIR$/source/_posts/JavaScript数据结构与算法.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="133">
+            <caret line="7" selection-start-line="7" selection-end-line="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/Taro笔记-解析.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="427">
+            <caret line="170" column="16" selection-start-line="170" selection-start-column="16" selection-end-line="170" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/扒一扒双向数据绑定.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="507">
+            <caret line="330" selection-start-line="330" selection-end-line="330" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/hello-world.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="190">
+            <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

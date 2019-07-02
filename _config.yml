@@ -4,7 +4,7 @@
 
 # Site
 title: B_B
-subtitle: BensonChen的个人Blog
+subtitle: Mr.Chen
 description: web前端开发, Hexo, webpack, Nodejs, Reactjs, Vuejs
 keywords: web前端, webpack, Nodejs, Reactjs, Vuejs
 author: BensonChen
@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://bensonchen.cn/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
